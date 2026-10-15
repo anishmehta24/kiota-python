@@ -5,6 +5,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.15.0](https://github.com/microsoft/kiota-python/compare/microsoft-kiota-abstractions-v1.14.4...microsoft-kiota-abstractions-v1.15.0) (2026-10-15)
+
+
+### Features
+
+* add Python 3.15 support to all packages ([0815ace](https://github.com/microsoft/kiota-python/commit/0815acee3423b7b186d5a144272e81a4e5504881))
+
+
+### Bug Fixes
+
+* **abstractions:** pass mypy --strict in store and fix the backing store bugs it shows ([213fe0a](https://github.com/microsoft/kiota-python/commit/213fe0a1f14812a539a491cbb9a9ecc45bf8b38f))
+* **abstractions:** pass mypy --strict in store and fix the backing store bugs it shows ([650235a](https://github.com/microsoft/kiota-python/commit/650235a1723f7c272fd445d411c5a11f5208b919))
+
 ## [1.14.4](https://github.com/microsoft/kiota-python/compare/microsoft-kiota-abstractions-v1.14.3...microsoft-kiota-abstractions-v1.14.4) (2026-10-14)
 
 
